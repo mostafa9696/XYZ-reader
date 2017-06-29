@@ -1,0 +1,26 @@
+
+<resources>
+
+    <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
+    <item name="colorPrimary">@color/theme_primary</item>
+    <item name="colorAccent">@color/theme_accent</item>
+    <item name="colorPrimaryDark">@color/theme_primary_dark</item>
+        <item name="colorControlHighlight">@color/colorHighlight</item>
+        <item name="android:textColorPrimary">#f2f04e</item>
+    </style>
+
+    <style name="Theme.Bacon.Detail">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+    <style name="CollapsedStyle" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginLeft">@dimen/text_margin</item>
+        <item name="android:textSize">@dimen/detail_title_text_size</item>
+    </style>
+    <style name="ExpandedStyle" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/ExpandedSize</item>
+        <item name="android:layout_marginLeft">@dimen/text_margin</item>
+    </style>
+</resources>

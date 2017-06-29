@@ -1,0 +1,19 @@
+<resources>
+    <!-- detail -->
+    <dimen name="detail_title_text_size">32sp</dimen>
+    <dimen name="detail_body_text_size">22sp</dimen>
+    <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
+
+    <dimen name="fab_Elevation">6dp</dimen>
+    <dimen name="appBar_elevation">4dp</dimen>
+    <dimen name="fab_press_translation_z">6dp</dimen>
+    <dimen name="fab_margin">24dp</dimen>
+    <dimen name="appBar_height">120dp</dimen>
+    <dimen name="appBar_detailsHeight">240dp</dimen>
+    <dimen name="Recycler_padddingTop">7dp</dimen>
+    <dimen name="detailsAppBar_height">220dp</dimen>
+    <dimen name="text_paddding">5dp</dimen>
+    <dimen name="text_margin">15dp</dimen>
+    <dimen name="details_TextSize">18dp</dimen>
+    <dimen name="ExpandedSize">17dp</dimen>
+</resources>
